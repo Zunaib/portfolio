@@ -1,0 +1,43 @@
+import css from "styled-jsx/css";
+
+export default css`
+  #work-title {
+    text-align: center;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+  }
+  #work-container {
+    width: 85%;
+    max-width: 1600px;
+    margin: 0 auto 3rem auto;
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 50% auto;
+  }
+
+  @media (max-width: 1200px) {
+    #work-container {
+      width: 90%;
+    }
+  }
+
+  @media (max-width: 850px) {
+    #work-container {
+      width: 75%;
+    }
+
+    ul {
+      grid-template-columns: 100%;
+    }
+  }
+
+  @media (max-width: 550px) {
+    #work-container {
+      width: 90%;
+    }
+  }
+`;
