@@ -138,4 +138,14 @@ export default css`
       margin-top: 0.75rem;
     }
   }
+
+  @media (max-width: 450px) {
+    ul {
+      padding: 0px 0px;
+    }
+
+    .right-container {
+      margin: 0px 0px;
+    }
+  }
 `;
