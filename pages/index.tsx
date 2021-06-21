@@ -16,7 +16,7 @@ export default function Index(props: IndexPropsInterface) {
       <Head>
         <title>Zunaib Imtiaz</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta name="description" content="Jesen Tanadi's dev portfolio" />
+        <meta name="description" content="Zunaib Imtiaz's Dev Portfolio" />
         <link rel="shortcut icon" href="/images/favicon.ico" />
         <link rel="stylesheet" href="/styles.css" />
       </Head>
