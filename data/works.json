@@ -2,7 +2,7 @@
   {
     "title": "CFIReview",
     "description": "CFIReview is a Review Website for Flying Instructors. I developed this website for an Upwork client, she wanted custom designs and a fully responsive site. This site was developed using ReactJS, NodeJS, Mongo, SCSS, Ant Design and some 3rd party npm packages",
-    "image": "/images/cfireview/Home.PNG",
+    "image": "/images/cfireview.png",
     "links": [
       {
         "name": "View",
@@ -27,7 +27,7 @@
   },
   {
     "title": "Airokit",
-    "image": "/images/airokit/Home.PNG",
+    "image": "/images/airokit.png",
     "description": "Airokit is a ReactJS based component library developed for Afiniti. Airokit was built using ReactJS, SCSS, Custom Grid System, Responsive Design, White/Dark Theme, Rollup, Storybook, Jest, Custom NPM Proxy and some third-party applications. Airokit consists of every User Interface Component required to develop a User Interface. Used Docker to deploy Storybook and published to Afiniti's custom proxy",
     "tags": [
       "ReactJS",
@@ -43,7 +43,7 @@
   },
   {
     "title": "The Seek",
-    "image": "/images/seek/Home.PNG",
+    "image": "/images/seek.png",
     "description": "The Seek is a Machine Learning based CCTV Surveillance System, developed this project using ReactJS, SCSS, Ant Design, Python, Python Flask, PyMongo, NumPy, Tensor-flow, Keras, Open-CV and Nvidia CUDA. This project captures CCTV Feed using Device IP Address, runs an activity and an object detection model to detect suspicious activity, weapons and notify administration. The suspicious part is also recorded and stored for admin to review or use later. Demo can be provided upon request.",
     "links": [
       {
@@ -68,7 +68,7 @@
   },
   {
     "title": "Vogue Junction",
-    "image": "/images/vogue/Home.PNG",
+    "image": "/images/vogue.png",
     "description": "Vogue Junction is one of my own projects. The idea behind vogue junction is to combine the functionalities of an e-commerce site with the likes of YouTube, Instagram and Medium. Specially designed for Fashion Freelancers to showcase and sell their work exclusively. This site was developed using ReactJS, NodeJS, Mongo and purely custom designed theme in SCSS.",
     "links": [
       {
@@ -96,7 +96,7 @@
   },
   {
     "title": "POS",
-    "image": "/images/pos/Home.PNG",
+    "image": "/images/pos.png",
     "description": "Developed numerous Point of Sale Systems for Local Clients and University Projects. These POS Systems consisted of data management, task scheduling, billing systems and some sale points were built on different stacks with the likes of PHP, NodeJS, ReactJS,  Angular, CSS, MongoDB, SQL",
 
     "tags": [
