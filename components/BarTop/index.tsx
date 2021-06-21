@@ -12,7 +12,7 @@ export default function BarTop() {
           <ButtonLinkFlex
             id="left-button"
             target="_blank"
-            link={{ url: "/docs/Resume-ZunaibImtiaz.pdf", name: "Resume" }}
+            link={{ url: "/docs/Resume - Zunaib imtiaz.pdf", name: "Resume" }}
           />
           <ButtonLinkFlex
             id="right-button"
