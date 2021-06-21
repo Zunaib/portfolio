@@ -7,7 +7,7 @@ export default css`
     bottom: 0;
     left: 0;
     z-index: 99;
-    background-color: #323232;
+    background-color: #232323;
     border-top: 1px solid white;
     color: #323232;
   }
@@ -24,7 +24,7 @@ export default css`
     max-width: 1600px;
     height: 100%;
     padding: 0;
-    background-color: #323232;
+    background-color: #232323;
     border: 0;
     color: white;
     border-left: 1px solid white;

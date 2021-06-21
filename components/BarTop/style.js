@@ -8,7 +8,7 @@ export default css`
     top: 0;
     left: 0;
     color: #323232;
-    background-color: #323232;
+    background-color: #232323;
     border-bottom: 1px solid white;
     z-index: 99;
   }

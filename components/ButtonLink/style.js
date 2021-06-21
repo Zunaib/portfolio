@@ -18,7 +18,7 @@ export default css`
     padding: 0.5rem;
     border: none;
     color: white;
-    background-color: #323232;
+    background-color: #232323;
     cursor: pointer;
     border-top: 1px solid white;
     border-bottom: 1px solid white;

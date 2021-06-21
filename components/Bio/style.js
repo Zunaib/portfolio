@@ -14,7 +14,7 @@ export default css`
     margin-top: 3rem;
     align-items: center;
     color: #323232;
-    background-color: #323232;
+    background-color: #232323;
     border-bottom: 1px solid white;
   }
 

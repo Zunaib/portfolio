@@ -12,7 +12,7 @@ export default css`
     width: 1rem;
     height: 1rem;
     position: absolute;
-    background-color: #323232;
+    background-color: #232323;
     z-index: 50;
   }
 

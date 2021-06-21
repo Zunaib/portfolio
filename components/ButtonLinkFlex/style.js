@@ -21,7 +21,7 @@ export default css`
     color: white;
     padding: 0;
     font-size: 1rem;
-    background-color: #323232;
+    background-color: #232323;
     border: 0;
   }
 `;

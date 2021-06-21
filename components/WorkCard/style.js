@@ -29,7 +29,7 @@ export default css`
     border-left: 1px solid white;
     border-right: 1px solid white;
     border-bottom: 1px solid white;
-    background-color: #323232;
+    background-color: #232323;
   }
 
   .card-container:nth-child(even) {
@@ -45,7 +45,7 @@ export default css`
     width: 1rem;
     height: 1rem;
     position: absolute;
-    background-color: #323232;
+    background-color: #232323;
   }
 
   .top-left {
