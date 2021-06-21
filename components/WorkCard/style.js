@@ -14,23 +14,17 @@ export default css`
 
   img {
     text-align: left;
-    height: 13rem;
+    height: 12rem;
     display: inline-block;
     object-fit: contain;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 5px;
   }
 
   .card-container {
-    // flex: 1;
     width: 100%;
     min-height: 23rem;
     padding: 1.75rem;
     position: relative;
-    // display: grid;
-    // grid-template-columns: 48.5% 48.5%;
-    // grid-template-rows: auto auto;
-    // grid-column-gap: 3%;
     align-items: start;
     border-left: 1px solid white;
     border-right: 1px solid white;
@@ -142,6 +136,10 @@ export default css`
   }
 
   @media (max-width: 450px) {
+    h2 {
+      margin: -0.25rem 0 0 0;
+    }
+
     ul {
       padding: 0px 0px;
     }
