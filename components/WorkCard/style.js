@@ -17,6 +17,8 @@ export default css`
     height: 13rem;
     display: inline-block;
     object-fit: contain;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
   }
 
   .card-container {
