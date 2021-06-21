@@ -24,6 +24,11 @@ export default css`
     border-bottom-color: #563d7c;
   }
 
+  .tag-scss {
+    color: white;
+    border-bottom-color: #563d7c;
+  }
+
   .tag-javascript {
     color: white;
     border-bottom-color: #f0db4f;
@@ -34,24 +39,24 @@ export default css`
     border-bottom-color: #2b7489;
   }
 
-  .tag-node {
+  .tag-nodejs {
     color: white;
     border-bottom-color: #68a063;
   }
 
-  .tag-express {
+  .tag-expressjs {
     color: white;
-    border-bottom-color: #lightgray;
+    border-bottom-color: lightgray;
   }
 
-  .tag-psql {
+  .tag-sql {
     color: white;
     border-bottom-color: #007bff;
   }
 
-  .tag-react {
+  .tag-reactjs {
     color: white;
-    border-bottom-color: #61dafb;
+    border-bottom-color: lightblue;
   }
 
   .tag-redux {
@@ -62,6 +67,16 @@ export default css`
   .tag-python {
     color: white;
     border-bottom-color: #2b5b84;
+  }
+
+  .tag-pymongo {
+    color: white;
+    border-bottom-color: lightgreen;
+  }
+
+  .tag-mongodb {
+    color: white;
+    border-bottom-color: green;
   }
 
   .tag-ruby {
