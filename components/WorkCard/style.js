@@ -12,7 +12,7 @@ export default css`
     padding: 15px 0px;
   }
 
-  img {
+  .img {
     text-align: left;
     height: 12rem;
     display: inline-block;
@@ -20,10 +20,15 @@ export default css`
     border-radius: 5px;
   }
 
+  .modal-img {
+    border-radius: 5px;
+    width: 100%;
+  }
+
   .card-container {
     width: 100%;
     min-height: 23rem;
-    padding: 1.75rem;
+    padding: 3rem 3rem;
     position: relative;
     align-items: start;
     border-left: 1px solid white;
@@ -96,7 +101,7 @@ export default css`
   }
 
   @media (max-width: 1100px) {
-    img {
+    .img {
       width: 100%;
     }
   }
@@ -136,8 +141,11 @@ export default css`
   }
 
   @media (max-width: 450px) {
+    .card-container {
+      padding: 1.75rem 1.75rem;
+    }
     h2 {
-      margin: -0.25rem 0 0 0;
+      margin: -0.25rem 0 1rem 0;
     }
 
     ul {

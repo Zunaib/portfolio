@@ -56,7 +56,7 @@ export default css`
 
   .tag-reactjs {
     color: white;
-    border-bottom-color: lightblue;
+    border-bottom-color: #61dafb;
   }
 
   .tag-redux {

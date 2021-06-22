@@ -42,6 +42,42 @@
     ]
   },
   {
+    "title": "Oversight",
+    "image": "/images/oversight.png",
+    "description": "Oversight is a monitoring system developed to monitor statistics RAM Usage, CPU Utilization, AI Utilization, Disk Utilization and much more performance related statistics. The first version was developed using ReactJS, Redux, SCSS, NodeJS, MongoDB, Redis, the second version was developed using the same UI as version one but with Golang at the server side, the third and final version was built using JAVA, Spring boot, SNMP and MongoDB.",
+    "tags": [
+      "ReactJS",
+      "Redux",
+      "ES6",
+      "TypeScript",
+      "SCSS",
+      "SNMP",
+      "JAVA",
+      "NodeJS",
+      "Golang",
+      "MongoDB",
+      "NPM"
+    ]
+  },
+  {
+    "title": "Oversight Signals Manager",
+    "image": "/images/osm.png",
+    "description": "Oversight Signals Manager (OSM) is a signal management system that organizes and provides the ability to Create, Read, Update and Delete configurations for each sensor used in Oversight such as performance statistics i.e., CPU Utilization. OSM was developed using ReactJS, Apollo Client, Ant Design, SCSS, UseForm, Hasura, GraphQL and PostgreSQL.",
+    "tags": [
+      "ReactJS",
+      "Apollo Client",
+      "ES6",
+      "TypeScript",
+      "USeForm",
+      "SCSS",
+      "AntD",
+      "Hasura",
+      "GraphQL",
+      "PostgreSQL",
+      "NPM"
+    ]
+  },
+  {
     "title": "The Seek",
     "image": "/images/seek.png",
     "description": "The Seek is a Machine Learning based CCTV Surveillance System, developed this project using ReactJS, SCSS, Ant Design, Python, Python Flask, PyMongo, NumPy, Tensor-flow, Keras, Open-CV and Nvidia CUDA. This project captures CCTV Feed using Device IP Address, runs an activity and an object detection model to detect suspicious activity, weapons and notify administration. The suspicious part is also recorded and stored for admin to review or use later. Demo can be provided upon request.",
