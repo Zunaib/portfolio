@@ -12,6 +12,7 @@ export default css`
   }
 
   .modal-main {
+    cursor: pointer;
     z-index: 999999;
     position: fixed;
     width: 70%;

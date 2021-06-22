@@ -18,11 +18,13 @@ export default css`
     display: inline-block;
     object-fit: contain;
     border-radius: 5px;
+    cursor: pointer;
   }
 
   .modal-img {
     border-radius: 5px;
     width: 100%;
+    cursor: pointer;
   }
 
   .card-container {
