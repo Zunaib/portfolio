@@ -37,9 +37,9 @@ export default css`
     background-color: #232323;
   }
 
-  .card-container:nth-child(even) {
-    border-left: none;
-  }
+  // .card-container:nth-child(even) {
+  //   border-left: none;
+  // }
 
   .card-container:nth-last-child(1),
   .card-container:nth-last-child(2) {

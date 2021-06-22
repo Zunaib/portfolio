@@ -22,9 +22,8 @@ export default css`
   }
 
   .display-block {
-    transition: display 5s;
-
     display: block;
+    animation: fadeIn 0.25s;
   }
 
   .display-none {
@@ -40,6 +39,16 @@ export default css`
   @media (max-width: 1100px) {
     .modal-main {
       width: 85%;
+    }
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
     }
   }
 `;
